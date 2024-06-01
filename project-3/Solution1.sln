@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLib", "ExcelLib\ExcelLib.csproj", "{A5709D1C-631B-4405-B587-74821195DD76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_net", "Lab3_net\Lab3_net.csproj", "{BE6087B5-70A8-42BB-BE8C-F9EA6925CBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLib", "WordLib\WordLib.csproj", "{D9C322FF-9DD3-4C11-A8C3-3DCB2E74C378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5709D1C-631B-4405-B587-74821195DD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5709D1C-631B-4405-B587-74821195DD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5709D1C-631B-4405-B587-74821195DD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5709D1C-631B-4405-B587-74821195DD76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6087B5-70A8-42BB-BE8C-F9EA6925CBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6087B5-70A8-42BB-BE8C-F9EA6925CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6087B5-70A8-42BB-BE8C-F9EA6925CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6087B5-70A8-42BB-BE8C-F9EA6925CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C322FF-9DD3-4C11-A8C3-3DCB2E74C378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C322FF-9DD3-4C11-A8C3-3DCB2E74C378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C322FF-9DD3-4C11-A8C3-3DCB2E74C378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C322FF-9DD3-4C11-A8C3-3DCB2E74C378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5565C6A-A28F-43CC-A324-944DFC5270CB}
+	EndGlobalSection
+EndGlobal
